@@ -142,9 +142,13 @@ Software中提供了视频里演示的上位机软件ElectronStudio的Unity工�
 
 #### 2.4 SDK使用说明
 
-ToDo
+SDK架构设计如图：
 
+![](/5.Docs/Images/robot7.jpg)
 
+具体的使用方法可以参考SDK工程中给出的`sample.cpp`，我是用CLion+MSVC工具链编译的，大家也可以把源码复制到自己的Visual Studio工程编译。
+
+关于SDK的具体实现细节可以阅读源码，我晚点有空也会再更新描述。
 
 ### 有的问题在Issues里面已经解答了，问问题之前先翻一下open/closed的Issues。
 
